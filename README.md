@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Anileate**
 
-- 🌱 I’m currently learning **libGDX**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Game development**
 
